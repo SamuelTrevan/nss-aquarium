@@ -9,8 +9,8 @@
 }
 
 .right-coulmn{
-    /* background: rgb(220, 20, 60); */
-    border: 1px solid black 
+    background: rgb(220, 20, 60);
+    /* border: 1px solid black  */
 }
 
 .left-coulmn{
@@ -20,8 +20,8 @@
 .side-bar{
     text-align: center;
     margin-left: auto;
-    /* background: rgb(4, 4, 245);
-    border: 3px dotted black; */
+    /* background: rgb(4, 4, 245); */
+    /* border: 3px dotted black; */
 }
 
 .page-header{
@@ -39,6 +39,8 @@
     margin-top: 25px;
     margin-left: 18%;
     padding: 5%;
+    width: 200px;
+    height: 150px;
 }
 
 .fish-details{
